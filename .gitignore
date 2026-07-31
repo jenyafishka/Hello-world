@@ -78,3 +78,7 @@ Testing/
 .git/
 *.slnx
 .vs
+LICENSE.txt
+README.md
+.gitattributes
+.gitignore
