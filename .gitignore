@@ -77,3 +77,4 @@ Testing/
 *.vcxproj.user
 .git/
 *.slnx
+.vs/
